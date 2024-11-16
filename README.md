@@ -9,7 +9,7 @@ This repository contains a powerful **web scraping tool** built using **Scrapy**
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/your-username/esimdb-scraper.git
 cd esimdb-scraper
