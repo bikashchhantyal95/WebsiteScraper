@@ -1,4 +1,4 @@
-# eSimDB Scraper & Comparison Tool
+# eSimDB Scraper
 
 ## 📖 Overview
 This repository contains a powerful **web scraping tool** built using **Scrapy** to extract eSIM data from the website [eSimDB](https://esimdb.com).
